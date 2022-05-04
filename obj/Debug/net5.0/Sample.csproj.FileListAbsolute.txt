@@ -1,0 +1,16 @@
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.exe
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.deps.json
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.dll
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\ref\Sample.dll
+C:\Users\lenovo\OneDrive\Desktop\ATM\bin\Debug\net5.0\Sample.pdb
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.dll
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\ref\Sample.dll
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.pdb
+C:\Users\lenovo\OneDrive\Desktop\ATM\obj\Debug\net5.0\Sample.genruntimeconfig.cache
